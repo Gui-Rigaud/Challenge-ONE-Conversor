@@ -45,9 +45,9 @@ Depois de realizar esse procedimento, será preciso incluir a biblioteca **Gson*
 
 - Clique no botão direito do mouse;
 - Procure por "build path" e selecione "include libraries...";
-- Selecione User `libraries -> Next` e aperte no botão "User libraries..." no canto direito;
+- Selecione `User libraries -> Next` e aperte no botão "User libraries..." no canto direito;
 - Clique em "New" e escreva "gson_lib";
-- Depois, vá em "Include Externals JARs..." e procure a pasta "gson-lib" dentro do projeto;
+- Depois, vá em "Include Externals JARs..." e procure a pasta "gson-lib" dentro deste projeto;
 - Selecione o arquivo "gson-2.8.5.jar" e depois clique em "Open";
 - Por fim, clique em "Apply and Close".
 
