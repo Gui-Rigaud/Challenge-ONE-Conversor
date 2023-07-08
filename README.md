@@ -31,7 +31,7 @@
 
 # 📁 Acesso ao projeto
 
-Para o projeto ser executado, é preciso [baixá-lo](https://github.com/Gui-Rigaud/Conversor-Challenge-ONE/archive/refs/heads/main.zip);
+Para o projeto ser executado, é preciso [baixá-lo](https://github.com/Gui-Rigaud/Challenge-ONE-Conversor/archive/refs/heads/main.zip);
 
 # 🛠️ Abrir e rodar o projeto
 
