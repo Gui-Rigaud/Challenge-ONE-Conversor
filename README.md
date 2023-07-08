@@ -1,5 +1,5 @@
 <h1 align="left">Conversor de Moedas e Medidas</h1>
-<img src="https://github.com/Gui-Rigaud/Conversor-Challenge-ONE/assets/115510639/77237d3e-99b6-4800-b6ff-98c182a81fb6"/>
+<img src="https://github.com/Gui-Rigaud/Challenge-ONE-Conversor/assets/115510639/7afa5478-389e-4959-b45a-08aabac9a0d2" />
 
 # Descrição do Projeto
 
