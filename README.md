@@ -51,6 +51,11 @@ Depois de realizar esse procedimento, será preciso incluir a biblioteca **Gson*
 - Selecione o arquivo "gson-2.8.5.jar" e depois clique em "Open";
 - Por fim, clique em "Apply and Close".
 
+Por fim, você pode abrir o projeto e realizar os seguintes passos:
+
+- Procurar o pacote `br.com.challengeone.conversores`;
+- Abrir o arquivo `Main.java` e executá-lo.
+
 # Autores
 
 | [<img src="https://avatars.githubusercontent.com/Gui-Rigaud" width=115><br><sub>Guilherme Rigaud</sub>](https://github.com/Gui-Rigaud) | 
